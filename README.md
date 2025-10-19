@@ -1,8 +1,8 @@
 # 🎮 Youmama BETA
 
-![Youmama Logo](assets/logo.png)  <!-- Reemplaza con tu logo -->
+![Youmama Logo](https://i.imgur.com/PHiNoen.png)
 
-[![Version](https://img.shields.io/badge/version-1.0--BETA-orange)](https://github.com/tu-usuario/youmama-beta/releases)
+[![Version](https://img.shields.io/badge/version-dorada-gold)](https://github.com/tu-usuario/youmama-beta/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Downloads](https://img.shields.io/badge/downloads-1000+-blue)](https://www.mediafire.com/file/mc6k7nus85fiqit/youmama2+Beta+1.rar/file)
 [![Discord](https://img.shields.io/badge/Join-Discord-7289DA)](https://discord.gg/tu-enlace)  <!-- Agrega si tienes un servidor -->

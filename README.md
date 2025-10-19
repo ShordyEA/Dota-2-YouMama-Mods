@@ -1,43 +1,49 @@
-# Dota-2-YouMama-Mods
-Hola! mi nombre es Shordy y este es mi primer software, es un gestor avanzado de mods para Dota 2 hecho en python desde cero.
-Automatiza la instalación, optimiza el rendimiento y asegura la compatibilidad con las actualizaciones de Valve, ofreciendo una experiencia de personalización segura y sencilla.
+# 🎮 Youmama BETA
 
-                                                        ---Características Principales---
+![Youmama Logo](assets/logo.png)  <!-- Reemplaza con tu logo -->
 
-Instalación Inteligente y Automática: 
-Un sistema de instalación simplificado que gestiona y aplica tus mods favoritos con solo unos clics.
+[![Version](https://img.shields.io/badge/version-1.0--BETA-orange)](https://github.com/tu-usuario/youmama-beta/releases)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Downloads](https://img.shields.io/badge/downloads-1000+-blue)](https://www.mediafire.com/file/mc6k7nus85fiqit/youmama2+Beta+1.rar/file)
+[![Discord](https://img.shields.io/badge/Join-Discord-7289DA)](https://discord.gg/tu-enlace)  <!-- Agrega si tienes un servidor -->
 
-Resiliencia ante las Actualizaciones: 
-El programa utiliza un método de validación de integridad que detecta automáticamente si Valve ha lanzado una actualización. Si es así, reinstala los scripts necesarios para asegurar que tus mods funcionen perfectamente.
+> **Revoluciona tu experiencia en Dota 2 con mods ilimitados.** Youmama BETA es un gestor gratuito y sin fines de lucro, creado con pasión por Shordy. Personaliza, adapta y juega sin límites. ¡Aquí mandas TÚ! ⚡
 
-Gestión de Firmas de Seguridad (VAC-Friendly): 
-La herramienta incluye una lógica para gestionar las firmas de seguridad, lo que minimiza el riesgo de que el sistema anti-trampas de Valve (VAC) detecte los archivos como corruptos.
+## 🌟 Características Destacadas
+✅ Gratuito y Open-Source Inspired: Sin costos, sin lucro – solo pasión por la comunidad.
 
-Interfaz de Usuario Intuitiva: 
-Una interfaz moderna y fluida, desarrollada con CustomTkinter, que te permite previsualizar mods, arrastrar y soltar ítems, y gestionar tus colecciones de forma visual.
+⚠️ Estado BETA: Experimental. Úsalo bajo tu propio riesgo. No somos responsables de bans o problemas con Valve.
 
-Optimización de Flujo de Trabajo:
-Un sistema de caché inteligente que almacena tus imágenes y datos, mejorando el rendimiento de la aplicación.
+🚀 Instalación Rápida
 
-Herramientas para Creadores (Para los que quieren contribuir me pueden contactar): 
-Funciones avanzadas para el modding, como el modo "Arcana", que permite a los creadores de contenido optimizar sus procesos, reduciendo el tiempo de trabajo de días a solo horas.
+Descarga: Youmama BETA v1.0 (Archivo .rar, ~50MB).
 
-                                                         ---Tecnologías y Arquitectura---
+Instala: Extrae y ejecuta youmama.exe. Requiere Dota 2 instalado.
 
-Este proyecto demuestra un enfoque integral en la ingeniería de software, utilizando una arquitectura modular que separa la lógica de la interfaz de usuario.
+Primer Uso: Selecciona mods, configura y ¡juega!
 
-Ingeniería Inversa y Manipulación de Archivos: 
+Advertencia VAC:
 
-El programa descifra la estructura de archivos de Dota 2 (.vpk, .vmdl, .vmat) para extraer y modificar datos de manera segura y controlada.
+Paso 1: Abre Youmama y selecciona tus mods, luego da click en "dependencias" "instalar mods" y luego "mods seguros" en dicho orden.
 
-Python: 
+Paso 2: Abre dota 2 como normalmente lo haces
 
-El lenguaje principal de desarrollo, elegido por su flexibilidad y la robustez de sus librerías.
+Importante: No modifiques archivos de Valve directamente.
 
-Procesamiento Asincrónico: 
+📖 Documentación
+Tutorial Completo – Cómo instalar y usar mods.
+https://youtu.be/C5ZVKpqyXU0?si=VmEkVl07zeUgdvSS
 
-Uso de hilos y multiprocesamiento para que la interfaz de usuario se mantenga fluida y no se "cuelgue" durante tareas pesadas como la instalación o el análisis de archivos.
+FAQ – Preguntas frecuentes sobre VAC y compatibilidad.
 
-                                                          ---Contribución---
-Este proyecto es el resultado de la pasión por la ingeniería y la comunidad de Dota 2. Si te ha gustado, siéntete libre de compartir el repositorio, dar una estrella o contribuir con tus ideas.
-Recuerda que es un proyecto sin fines de lucro, por y para la comunidad!!
+Changelog – Historial de versiones BETA.
+
+🤝 Contribución y Comunidad
+
+¡Tu feedback es clave! Abre un issue para bugs o ideas. Para contribuir (e.g., traducciones o docs), ver CONTRIBUTING.md.
+
+Soporte: Solamente por Youtube
+
+📜 Licencia
+
+Este proyecto está bajo la Licencia MIT. Libre para usar, modificar y distribuir con atribución.

@@ -18,6 +18,14 @@
 
 Descarga: Youmama BETA v1.0 (Archivo .rar, ~50MB).
 
+Resources (Se lo hizo de esta forma para que la app principal no dependa de los mods en si, para que sea mas liviana"
+
+Heroes: https://www.mediafire.com/file/zuwl2w6l8ydfg65/heroes.rar/file
+
+Mundo: https://www.mediafire.com/file/e662q0lcc6uj51r/mundo.rar/file
+
+Oficiales: https://www.mediafire.com/file/ce4tj772kqic4x8/oficiales.rar/file
+
 Instala: Extrae y ejecuta youmama.exe. Requiere Dota 2 instalado.
 
 Primer Uso: Selecciona mods, configura y ¡juega!

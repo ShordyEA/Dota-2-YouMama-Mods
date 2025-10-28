@@ -20,7 +20,7 @@ Descarga: Youmama BETA v1.0 (Archivo .rar, ~50MB).
 
 Resources (Se lo hizo de esta forma para que la app principal no dependa de los mods en si, para que sea mas liviana"
 
-Heroes: https://www.mediafire.com/file/zuwl2w6l8ydfg65/heroes.rar/file
+Heroes: https://www.mediafire.com/file/o0hbw3pi3nenufn/heroes.rar/file
 
 Mundo: https://www.mediafire.com/file/e662q0lcc6uj51r/mundo.rar/file
 
